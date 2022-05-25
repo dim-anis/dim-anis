@@ -1,5 +1,5 @@
 ## Hi, I’m Dima 👋
-#### I'm an aspiring front-end engineer trying to make the web a better place.
+#### An aspiring front-end engineer trying to make the web a better place.
 Actively looking for a Front-End junior role / intership!
 
 ### Writing ✍
