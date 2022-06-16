@@ -3,7 +3,7 @@
 Actively looking for a Front-End junior role / intership!
 
 ### Writing ✍
-Personal blog built in Gatsby is currently under construction...
+I write about everything front-end and more in [my blog](https://dmitryanisov.com).
 
 ### Checkout my repos 🚧
 - Being a gym rat that I am I couldn't think of anything better than building a [Workout Tracker Telegram Bot](https://github.com/dim-anis/tg-workout-tracker).
