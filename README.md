@@ -12,7 +12,7 @@ I write about everything front-end and more in [my blog](https://dmitryanisov.co
 ### Social
 Get in touch:
 
-- [🔷 Telegram](https://t.me/dim_anis)
-- [🔵 Twitter](https://twitter.com/DmitryAnisov)
-- [🟦 LinkedIn]()
-- [🔴 Email](mailto:anis.dim@gmail.com)
+- [Telegram](https://t.me/dim_anis)
+- [Twitter](https://twitter.com/DmitryAnisov)
+- [LinkedIn]()
+- [Email](mailto:anis.dim@gmail.com)
